@@ -92,14 +92,9 @@ I work across the whole stack rather than one slice of it:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RegatteVarshithReddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegatteVarshithReddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="./metrics.svg" alt="GitHub metrics — activity, top languages, and contribution calendar" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RegatteVarshithReddy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RegatteVarshithReddy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=RegatteVarshithReddy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RegatteVarshithReddy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
 </div>
 

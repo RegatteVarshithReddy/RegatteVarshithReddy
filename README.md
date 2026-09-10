@@ -84,7 +84,7 @@ Engineering that stays close to the product:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET / C#](https://img.shields.io/badge/.NET_%2F_C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
@@ -112,10 +112,10 @@ Engineering that stays close to the product:
 
 <sub>
 <b>Also worked with</b><br/>
-<b>AI / Data</b> — semantic search · prompt engineering · LlamaIndex · NLP · CNNs / GANs · OpenCV · vector DBs (FAISS, Chroma, Pinecone, pgvector) · Azure AI Search / Foundry / ML / Functions / App Service · Microsoft Copilot · ETL · data validation · Fivetran · Tableau · data modeling &amp; warehousing · query optimization<br/>
-<b>Cloud / DevOps</b> — REST APIs · Linux · Ansible · CI/CD · OpenShift · VMware (vSphere, vCenter, ESXi) · Proxmox<br/>
-<b>Infra &amp; identity</b> — Windows Server 2016–2022 · Active Directory · Entra ID · Group Policy · Delinea Secret Server (PAM) · Zero-Trust / RDP access · DFS · NAS · iSCSI · DHCP/DNS · server rack &amp; stack<br/>
-<b>Enterprise</b> — Microsoft 365 (Exchange, Teams) · Intune · SOTI MobiControl · SAP · ServiceNow ITSM · ManageEngine ServiceDesk Plus
+<b>AI / Data</b> — LLM integration · semantic search · prompt engineering · LlamaIndex · NLP · CNNs / GANs · OpenCV · vector DBs (FAISS, Chroma, Pinecone, pgvector) · Azure AI Search / Foundry / ML / Functions / App Service · Microsoft Copilot · ETL · data validation · Fivetran · Tableau · data modeling &amp; warehousing · query optimization<br/>
+<b>Cloud / DevOps</b> — REST APIs · Linux · Ansible · CI/CD · AWS (EC2, S3, RDS, Lambda) · OpenShift · VMware (vSphere, vCenter, ESXi) · Proxmox<br/>
+<b>Infra &amp; identity</b> — Windows Server 2016–2022 · Active Directory · Entra ID · Group Policy · Delinea Secret Server (PAM) · Zero-Trust / RDP access · DFS · NAS · iSCSI · storage server setup · DHCP/DNS · Wireshark · server rack &amp; stack<br/>
+<b>Enterprise</b> — Microsoft 365 (Exchange, Teams) · SharePoint · Intune · SOTI MobiControl · SAP · ServiceNow ITSM · ManageEngine ServiceDesk Plus
 </sub>
 
 ### 📊 GitHub activity

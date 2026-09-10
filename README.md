@@ -2,7 +2,7 @@
 
 # Hi, I'm Varshith 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=AI+Engineer+%E2%80%A2+AI+Product+Manager;LLM+apps+%E2%80%A2+MCP+servers+%E2%80%A2+AI-powered+products;M.S.+Data+Science+%E2%80%A2+NJIT" alt="AI Engineer and AI Product Manager" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=Product-minded+AI+Engineer;LLM+apps+%E2%80%A2+MCP+servers+%E2%80%A2+AI-powered+products;M.S.+Data+Science+%E2%80%A2+NJIT" alt="Product-minded AI Engineer" />
 
 <br/>
 
@@ -20,17 +20,17 @@
 ### 🧭 About
 
 - 🤖 **AI Engineer** — I build LLM applications, MCP servers, and multi-provider AI tooling
-- 🧭 **AI Product Manager** — I scope, ship, and iterate on AI products end to end
+- 🧭 **Product-minded** — I scope, ship, and iterate on AI products end to end, not just prototypes
 - 🎓 **M.S. in Data Science**, New Jersey Institute of Technology
 - 🌱 Going deep on RAG, evals, agents, and the Model Context Protocol
 - 💬 Ask me about LLM app architecture, MCP, shipping AI features, or turning data into product decisions
 
-Two hats, one goal — turn AI capabilities into products people actually use:
+Engineering that stays close to the product:
 
-| Hat | What that looks like |
+| Focus | What that looks like |
 |---|---|
 | **AI Engineering** | LLM apps, MCP servers, multi-provider tooling (Claude · OpenAI · Gemini · local), RAG, prompt & eval workflows |
-| **AI Product** | Problem discovery, scoping & roadmaps, UX for AI features, iterating on real usage and metrics |
+| **Product sense** | Problem discovery, scoping, UX for AI features, iterating on real usage and metrics |
 | **Data foundation** | Python + pandas, SQL, Jupyter — analysis and models that inform the product |
 
 ### 🔭 What I'm building
@@ -120,6 +120,6 @@ Two hats, one goal — turn AI capabilities into products people actually use:
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@varshithreddyregatte)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshith.regatte@gmail.com)
 
-<sub><strong>Targeting AI Engineer and AI Product Manager roles.</strong> Open to opportunities — and to talking shop with fellow builders.</sub>
+<sub><strong>Targeting AI Engineer roles.</strong> Open to opportunities — and to talking shop with fellow builders.</sub>
 
 </div>

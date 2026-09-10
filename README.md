@@ -43,6 +43,14 @@ Engineering that stays close to the product:
 | **[lyceum-tube](https://github.com/RegatteVarshithReddy/lyceum-tube)** | Chrome extension — YouTube watch stats, focus mode, playlist progress, and notes |
 | **[varshithregatte.com](https://varshithregatte.com)** | Personal site & blog — Astro on Cloudflare Pages with GitHub Actions CI/CD ([source](https://github.com/RegatteVarshithReddy/varshithregatte-com)) |
 
+### 📄 Publications
+
+**Detecting DeepFakes: A Deep Convolutional Neural Network Approach with Depth-Wise Separable Convolutions**
+<br/>R. V. Reddy _(first author)_, A. Nethi, S. Sukhija, Y. Gupta
+<br/>_IEEE Int. Conf. on Emerging Techniques in Computational Intelligence (ICETCI)_, 2023, pp. 33–38
+<br/>Depth-wise separable CNN on Celeb-DF v2 — 98.8% image / 97.4% video accuracy.
+<br/>[IEEE Xplore](https://ieeexplore.ieee.org/document/10331449) · [DOI](https://doi.org/10.1109/ICETCI58599.2023.10331449) · [Code](https://github.com/RegatteVarshithReddy/DeepFakeDetectionProject)
+
 ### 🛠️ Tech I reach for
 
 **AI / ML**

@@ -110,7 +110,13 @@ Engineering that stays close to the product:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<sub><b>Also worked with</b> — semantic search · prompt engineering · LlamaIndex · NLP · CNNs / GANs · OpenCV · vector DBs (FAISS, Chroma, Pinecone, pgvector) · Azure AI Search · Azure AI Foundry · Azure ML · Azure Functions · Microsoft Copilot · ETL · Fivetran · Tableau · data modeling &amp; warehousing · query optimization · REST APIs · Linux · Ansible · CI/CD · OpenShift</sub>
+<sub>
+<b>Also worked with</b><br/>
+<b>AI / Data</b> — semantic search · prompt engineering · LlamaIndex · NLP · CNNs / GANs · OpenCV · vector DBs (FAISS, Chroma, Pinecone, pgvector) · Azure AI Search / Foundry / ML / Functions / App Service · Microsoft Copilot · ETL · data validation · Fivetran · Tableau · data modeling &amp; warehousing · query optimization<br/>
+<b>Cloud / DevOps</b> — REST APIs · Linux · Ansible · CI/CD · OpenShift · VMware (vSphere, vCenter, ESXi) · Proxmox<br/>
+<b>Infra &amp; identity</b> — Windows Server 2016–2022 · Active Directory · Entra ID · Group Policy · Delinea Secret Server (PAM) · Zero-Trust / RDP access · DFS · NAS · iSCSI · DHCP/DNS · server rack &amp; stack<br/>
+<b>Enterprise</b> — Microsoft 365 (Exchange, Teams) · Intune · SOTI MobiControl · SAP · ServiceNow ITSM · ManageEngine ServiceDesk Plus
+</sub>
 
 ### 📊 GitHub activity
 

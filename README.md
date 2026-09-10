@@ -6,6 +6,10 @@
 
 <br/>
 
+[![Open to AI Engineer roles](https://img.shields.io/badge/%E2%97%8F%20Open%20to-AI%20Engineer%20roles-2ea44f?style=for-the-badge)](mailto:varshith.regatte@gmail.com)
+
+<br/>
+
 [![Website](https://img.shields.io/badge/Website-varshithregatte.com-1a1a2e?style=for-the-badge&logo=astro&logoColor=white)](https://varshithregatte.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-varshith--regatte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-regatte/)
 [![X](https://img.shields.io/badge/X-@iamvarshi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamvarshi)
@@ -52,6 +56,8 @@ Engineering that stays close to the product:
 <br/>[IEEE Xplore](https://ieeexplore.ieee.org/document/10331449) · [DOI](https://doi.org/10.1109/ICETCI58599.2023.10331449) · [Code](https://github.com/RegatteVarshithReddy/DeepFakeDetectionProject)
 
 ### 🛠️ Tech
+
+<sub>Badges are what I reach for day-to-day. The list at the end is exposure, not depth.</sub>
 
 **AI / ML**
 
@@ -120,7 +126,7 @@ Engineering that stays close to the product:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <sub>
-<b>Also worked with</b><br/>
+<b>Familiar / exposure</b><br/>
 <b>AI / Data</b> — LLM integration · semantic search · prompt engineering · LlamaIndex · NLP · CNNs / GANs · OpenCV · vector DBs (FAISS, Chroma, Pinecone, pgvector) · Azure AI Search / Foundry / ML / Functions / App Service · Microsoft Copilot · ETL · data validation · Fivetran · Tableau · data modeling &amp; warehousing · query optimization<br/>
 <b>Cloud / DevOps</b> — REST APIs · CI/CD · AWS (EC2, S3, RDS, Lambda) · OpenShift · VMware vSphere / vCenter / ESXi · WireGuard<br/>
 <b>Infra &amp; identity</b> — Windows Server 2016–2022 · Active Directory · Entra ID · Group Policy · Delinea Secret Server (PAM) · Zero-Trust / RDP access · DFS · NAS · iSCSI · storage server setup · DHCP/DNS · Wireshark · server rack &amp; stack<br/>

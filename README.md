@@ -8,6 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-varshithregatte.com-1a1a2e?style=for-the-badge&logo=astro&logoColor=white)](https://varshithregatte.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-varshith--regatte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-regatte/)
+[![X](https://img.shields.io/badge/X-@iamvarshi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamvarshi)
 [![Email](https://img.shields.io/badge/Email-varshith.regatte@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshith.regatte@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=RegatteVarshithReddy&label=Profile%20views&color=7aa2f7&style=for-the-badge)
 
@@ -122,6 +123,7 @@ I work across the whole stack rather than one slice of it:
 
 [![Website](https://img.shields.io/badge/varshithregatte.com-1a1a2e?style=for-the-badge&logo=astro&logoColor=white)](https://varshithregatte.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-regatte/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamvarshi)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshith.regatte@gmail.com)
 
 <sub>Open to conversations about AI engineering, self-hosting, and data — for recruiters and fellow builders alike.</sub>

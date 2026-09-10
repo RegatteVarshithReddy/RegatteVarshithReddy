@@ -2,7 +2,7 @@
 
 # Hi, I'm Varshith 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=Systems+admin+by+day%2C+builder+by+night;AI+apps+%E2%80%A2+Data+tooling+%E2%80%A2+The+infra+underneath;M.S.+Data+Science+%40+NJIT+%7C+Homelab+of+one" alt="Systems admin by day, builder by night" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=AI+Engineer+%E2%80%A2+AI+Product+Manager;LLM+apps+%E2%80%A2+MCP+servers+%E2%80%A2+AI-powered+products;M.S.+Data+Science+%E2%80%A2+NJIT" alt="AI Engineer and AI Product Manager" />
 
 <br/>
 
@@ -19,19 +19,19 @@
 
 ### 🧭 About
 
-- 🖥️ **Systems administrator** with ~3 years keeping production infrastructure healthy
+- 🤖 **AI Engineer** — I build LLM applications, MCP servers, and multi-provider AI tooling
+- 🧭 **AI Product Manager** — I scope, ship, and iterate on AI products end to end
 - 🎓 **M.S. in Data Science**, New Jersey Institute of Technology
-- 🏠 Run a one-person **homelab** where I ship self-hosted and AI-powered tools end to end — from the model call down to the reverse proxy
-- 🌱 Currently going deep on **AI engineering** — LLM apps, the Model Context Protocol, RAG, and evals
-- 💬 Ask me about self-hosting, Proxmox, LLM app plumbing, or turning messy data into decisions
+- 🌱 Going deep on RAG, evals, agents, and the Model Context Protocol
+- 💬 Ask me about LLM app architecture, MCP, shipping AI features, or turning data into product decisions
 
-I work across the whole stack rather than one slice of it:
+Two hats, one goal — turn AI capabilities into products people actually use:
 
-| Layer | What that looks like |
+| Hat | What that looks like |
 |---|---|
-| **AI / ML** | LLM apps, MCP servers, multi-provider tooling (Claude · OpenAI · Gemini · local), RAG, prompt & eval workflows |
-| **Data** | Python + pandas, SQL, Jupyter, analytics and ML models, dashboards |
-| **Infra** | Linux, Docker, Proxmox, Nginx, Cloudflare, Tailscale, GitHub Actions CI/CD |
+| **AI Engineering** | LLM apps, MCP servers, multi-provider tooling (Claude · OpenAI · Gemini · local), RAG, prompt & eval workflows |
+| **AI Product** | Problem discovery, scoping & roadmaps, UX for AI features, iterating on real usage and metrics |
+| **Data foundation** | Python + pandas, SQL, Jupyter — analysis and models that inform the product |
 
 ### 🔭 What I'm building
 
@@ -45,15 +45,6 @@ I work across the whole stack rather than one slice of it:
 
 ### 🛠️ Tech I reach for
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
 **AI / ML**
 
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -64,31 +55,32 @@ I work across the whole stack rather than one slice of it:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Web**
+**Languages**
 
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Web & APIs**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**DevOps & Infra**
+**Ship & Collaborate**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 📊 GitHub activity
 
@@ -128,6 +120,6 @@ I work across the whole stack rather than one slice of it:
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@varshithreddyregatte)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshith.regatte@gmail.com)
 
-<sub>Open to conversations about AI engineering, self-hosting, and data — for recruiters and fellow builders alike.</sub>
+<sub><strong>Targeting AI Engineer and AI Product Manager roles.</strong> Open to opportunities — and to talking shop with fellow builders.</sub>
 
 </div>

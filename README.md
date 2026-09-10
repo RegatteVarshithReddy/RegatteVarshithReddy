@@ -105,6 +105,15 @@ Engineering that stays close to the product:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Infrastructure**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -113,7 +122,7 @@ Engineering that stays close to the product:
 <sub>
 <b>Also worked with</b><br/>
 <b>AI / Data</b> — LLM integration · semantic search · prompt engineering · LlamaIndex · NLP · CNNs / GANs · OpenCV · vector DBs (FAISS, Chroma, Pinecone, pgvector) · Azure AI Search / Foundry / ML / Functions / App Service · Microsoft Copilot · ETL · data validation · Fivetran · Tableau · data modeling &amp; warehousing · query optimization<br/>
-<b>Cloud / DevOps</b> — REST APIs · Linux · Ansible · CI/CD · AWS (EC2, S3, RDS, Lambda) · OpenShift · VMware (vSphere, vCenter, ESXi) · Proxmox<br/>
+<b>Cloud / DevOps</b> — REST APIs · CI/CD · AWS (EC2, S3, RDS, Lambda) · OpenShift · VMware vSphere / vCenter / ESXi · WireGuard<br/>
 <b>Infra &amp; identity</b> — Windows Server 2016–2022 · Active Directory · Entra ID · Group Policy · Delinea Secret Server (PAM) · Zero-Trust / RDP access · DFS · NAS · iSCSI · storage server setup · DHCP/DNS · Wireshark · server rack &amp; stack<br/>
 <b>Enterprise</b> — Microsoft 365 (Exchange, Teams) · SharePoint · Intune · SOTI MobiControl · SAP · ServiceNow ITSM · ManageEngine ServiceDesk Plus
 </sub>

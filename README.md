@@ -92,9 +92,15 @@ I work across the whole stack rather than one slice of it:
 
 <div align="center">
 
-<img src="./metrics.svg" alt="GitHub metrics — activity, top languages, and contribution calendar" />
+![Followers](https://img.shields.io/github/followers/RegatteVarshithReddy?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=7aa2f7&labelColor=1a1b27)
+![Total stars](https://img.shields.io/github/stars/RegatteVarshithReddy?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&label=Total%20stars&color=bb9af7&labelColor=1a1b27)
+![On GitHub since](https://img.shields.io/badge/on%20GitHub%20since-2017-9ece6a?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RegatteVarshithReddy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=RegatteVarshithReddy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+
+<sub>📅 The contribution graph further down this page now includes private-repo activity.</sub>
 
 </div>
 
